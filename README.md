@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/master/src/img/logo.png" />
+<img src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/main/src/img/Demo_platform.png" />
 </h1>
 
 <div align="center">
@@ -38,7 +38,7 @@ You can list your ETH-based game NFTs on our marketplace and sell them to other 
 ## Preview
 
 <p align="center">
-  <img alt="landpage" src="https://github.com/Alexandrolms224/NFT-marketplace/blob/master/src/img/Demo_platform.png">
+  <img alt="landpage" src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/main/src/img/Demo_platform.png">
 <p />
 
 <a id='architecture' />
@@ -46,10 +46,10 @@ You can list your ETH-based game NFTs on our marketplace and sell them to other 
 ## Architecture of the Project
 
 <p align="center">
-  <img alt="Frontend-Flow" src="https://github.com/Alexandrolms224/NFT-marketplace/blob/master/src/img/frontend%20Arch.png">
+  <img alt="Frontend-Flow" src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/main/src/img/frontend%20Arch.png">
 <p />
 <p align="center">
-  <img alt="Backend-Flow" src="https://github.com/Alexandrolms224/NFT-marketplace/blob/master/src/img/backend_Arch.png">
+  <img alt="Backend-Flow" src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/main/src/img/backend_Arch.png">
 <p />
 
 <a id='feature' />
