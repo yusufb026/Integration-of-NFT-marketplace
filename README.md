@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/main/src/img/Demo_platform.png" />
+<img src="https://github.com/yusufb026/Integration-of-NFT-marketplace/blob/main/src/img/logo.png" />
 </h1>
 
 <div align="center">
